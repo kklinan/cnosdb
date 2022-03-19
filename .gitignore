@@ -30,4 +30,4 @@ go.sum
 .dist/
 *.imldist/
 
-config/*.config
+.cnosdb/
